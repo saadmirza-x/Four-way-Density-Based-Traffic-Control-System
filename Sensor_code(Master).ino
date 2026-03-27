@@ -1,3 +1,6 @@
+// Saad Mirza (2023498)
+// Hashim Gull (2023232)
+// Maham Imran (2023289)
 #include <Wire.h>
 
 const int numDirections = 4;  // Number of directions being monitored
