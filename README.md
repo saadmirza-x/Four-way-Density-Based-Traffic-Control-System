@@ -1,1 +1,1 @@
-# Four-way-Density-Based-Traffic-Control-System
+The sensors are connected with the master arduino and leds are connected with slave arduino . They are connected through I2C communication . I2C communication uses the SDL and SDA pins of the arduino . Rhe default timer for green light is 5 second and all others is 1 sec when density is sensed higher at one side the default timer for it is increased to 10 sec and is back to normal when density is decreased
