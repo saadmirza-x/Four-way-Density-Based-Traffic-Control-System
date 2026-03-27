@@ -27,3 +27,6 @@ Process repeats in real time
 
 Communication Protocol
 I2C was used for Master-Slave communication. SDA carries the data and SCL keeps both Arduinos synchronized on timing.
+
+Result
+1st Position — IF Lab, Faculty of Electrical Engineering(FEE) at GIKI.
